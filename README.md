@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Gour07
-- 👀 I’m interested in gaining knowledge 
 - 🌱 I’m currently exploring web development
 - 📫 How to reach me : gb2644@it.jgec.ac.in
 - 😄 Pronouns: He/Him
