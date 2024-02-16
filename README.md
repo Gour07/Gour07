@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gour07
 - 🌱 I’m currently exploring web development
 - 📫 How to reach me : gb2644@it.jgec.ac.in
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His/Him
 
 <!---
 Gour07/Gour07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
