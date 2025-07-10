@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gour07
-- 🌱 I’m currently exploring web development
+- 🌱 I’m currently exploring Machine Learning
 - 📫 How to reach me : gb2644@it.jgec.ac.in
 - 😄 Pronouns: He/His/Him
 
